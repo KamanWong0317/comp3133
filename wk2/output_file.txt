@@ -1,0 +1,2 @@
+
+This is a new data to be appended to output_file.txt
