@@ -36,9 +36,3 @@ console.log(`Buffer in JSON format : ${JSON.stringify(buf2.toJSON())}`);
 console.log(`Buffer in Hex format : ${buf2.toString('hex')}`);
 console.log(`Buffer in UTF-8 format : ${buf2.toString('utf-8')}`);
 console.log(`Buffer in UTF-16le format : ${buf2.toString('utf-16le')}`);
-
-
-
-
-
-
