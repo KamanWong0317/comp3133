@@ -12,7 +12,7 @@ const {Server} = require('socket.io')
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public/client.html'))
+    res.sendFile(path.join(__dirname, "public", "login.html"))
 })
 
 //start listening to server on PORT
