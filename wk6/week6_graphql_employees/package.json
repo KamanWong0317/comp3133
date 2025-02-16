@@ -1,0 +1,29 @@
+{
+  "name": "week6_graphql_employees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL",
+    "GraphiQL",
+    "MongoDB",
+    "mongoose",
+    "Apollo"
+  ],
+  "author": "Jigisha Patel",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^5.13.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
